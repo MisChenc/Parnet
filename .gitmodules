@@ -1,3 +1,0 @@
-[submodule "childModule"]
-	path = childModule
-	url = git@github.com:MisChenc/child.git
